@@ -1,2 +1,2 @@
 # AWS-Project
-A hands-on AWS cloud engineering project demonstrating core infrastructure, security, and operations skills. Covers VPC networking, EC2/ALB/Auto Scaling, RDS, S3, and CloudWatch/SNS alerting — fully automated with Terraform and deployed through a GitHub Actions CI/CD pipeline. Includes a documented troubleshooting log covering common support scenarios: connectivity failures, access-denied errors, and security group misconfigurations.
+"Deployed a Flask app on AWS (VPC, EC2, RDS, S3, IAM), monitored it with CloudWatch/SNS, and documented 8 break-and-fix incidents."
